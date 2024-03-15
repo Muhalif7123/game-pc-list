@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">PC Games</string>
+    <string name="about_me">About me</string>
+    <string name="my_name">Muhammad Alief Rahman Fardillah</string>
+    <string name="muhalif7123_gmail_com">muhalif7123@gmail.com</string>
+    <string name="share">Share</string>
+    <string-array name="name_data">
+        <item>Zuma Deluxe</item>
+        <item>Feeding Frenzy</item>
+        <item>Stronghold Crusader: II</item>
+        <item>Grand Theft Auto: San Andreas</item>
+        <item>Call of Duty Modern Warfare 2</item>
+        <item>Resident Evil 4</item>
+        <item>Left 4 Dead 2</item>
+        <item>Undertale</item>
+        <item>Little Nightmare</item>
+        <item>Red Dead Redemption 2</item>
+    </string-array>
+
+
+    <integer-array name="photo_link">
+        <item>@drawable/zuma_deluxe</item>
+        <!--Feeding Frenzy-->
+        <item>@drawable/feeding_frenzy</item>
+        <!--Stronghold Crusader 2-->
+        <item>@drawable/stronghold_crusader</item>
+        <!--GTA San Andreas-->
+        <item>@drawable/gta_sa</item>
+        <!--COD Modern Warfare 2-->
+        <item>@drawable/cod_mw</item>
+        <!--Resident Evil 4-->
+        <item>@drawable/re_empat</item>
+        <!--Left 4 Dead 2-->
+        <item>@drawable/left_for_dead</item>
+        <!--Undertale-->
+        <item>@drawable/undertale</item>
+        <!--Little Nightmare-->
+        <item>@drawable/little_nightmare</item>
+        <!--Red Dead Redemption 2-->
+        <item>@drawable/rdr</item>
+    </integer-array>
+
+
+    <string-array name="data_description">
+        <item>Zuma is a 2003 tile-matching puzzle video game developed by Oberon Media and published by PopCap Games. It was released for a number of platforms, including PDAs, mobile phones, and the iPod. An enhanced version, called Zuma Deluxe, was released for Microsoft Windows and Mac OS X as well as an Xbox Live Arcade download for the Xbox 360 and a PlayStation Network download for the PlayStation 3. It is also included with the PlayStation 3 retail version of Bejeweled 3, along with Feeding Frenzy 2. Zuma received the 2004 "Game of the Year" award from RealArcade.  </item>
+        <item>Feeding Frenzy is a single-player mode and arcade-style aquatic video game written by Sprout Games, and published by PopCap Games. With an initial debut on February 11, 2004, it saw a re-release on the Xbox Live Arcade service, with versions for both the original Xbox and the Xbox 360. The Xbox 360 version, released on March 15, 2006, was the 17th most popular Xbox Live Arcade title for 2006. In February 2006, the sequel to this game, Feeding Frenzy 2 was released. By2016 Feeding Frenzy was made available for Xbox One backwards compatibility and is free to members on EA Access. </item>
+        <item>Stronghold: Crusader is the successor to Firefly Studios 2001 real-time strategy video game Stronghold. Crusader has much in common with the original Stronghold, but differs from its predecessor in the fact that the game is no longer set in England, instead being set in the Middle East during the Crusades. Another prominent addition not found in its predecessor is a skirmish mode in single-player, allowing customized battles with AI opponents instead of the linear campaign. The game was also released as Stronghold Warchest. This version was a compendium of Stronghold and an enhanced version of Stronghold: Crusader, containing additional characters and an additional Crusader Trail. Stronghold Warchest was only released in a limited number of countries (e.g. USA or Poland), meaning players in the rest of the world have never encountered the second Crusader Trail, or second set of characters. This changed when an updated version of Stronghold Crusader, Stronghold: Crusader Extreme was released in early 2008. </item>
+        <item>Grand Theft Auto: San Andreas is a 2004 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the fifth main entry in the Grand Theft Auto series, following 2002 Grand Theft Auto: Vice City, and the seventh installment overall. It was released in October 2004 for the PlayStation 2, in June 2005 for Microsoft Windows and Xbox, and in November 2010 for Mac OS X. San Andreas launch was accompanied by praise for its innovative gameplay elements, such as extensive character customization, diverse vehicles ranging from bicycles to airplanes, and the introduction of RPG-like mechanics allowing CJ to improve his skills over time. Moreover, the games iconic soundtrack featuring a wide array of music genres from the 1990s added depth to the immersive experience, contributing to its enduring legacy as a groundbreaking title in the history of gaming. </item>
+        <item>Call of Duty: Modern Warfare 2 is a 2009 first-person shooter game developed by Infinity Ward and published by Activision. It is the sixth installment in the Call of Duty series and the direct sequel to Call of Duty 4: Modern Warfare. It was released worldwide on November 10, 2009, for Windows, PlayStation 3, and Xbox 360. A separate version for the Nintendo DS, titled Modern Warfare: Mobilized, was also released on the same day. A version for OS X was developed by Aspyr and released in May 2014, and the Xbox 360 version was made backward compatible for the Xbox One in 2018. The games campaign follows Task Force 141, a multinational special forces unit commanded by Captain Soap MacTavish as they hunt Vladimir Makarov, leader of the Russian Ultranationalist party, and United States Army Rangers from the 1st Ranger Battalion who are defending the Washington, D.C. area from a Russian invasion. The games main playable characters are Sergeant Gary "Roach" Sanderson, of the 141, and Private James Ramirez, of the Army Rangers, with Captain MacTavish becoming playable later in the campaign. The multiplayer mode was expanded upon from the previous game, with several new features and modes.</item>
+        <item>Resident Evil 4 is a survival horror game by Capcom, originally released for the GameCube in 2005. Players control the special agent Leon S. Kennedy on a mission to rescue the US presidents daughter, Ashley Graham, who has been kidnapped by a religious cult in rural Spain. Leon fights hordes of enemies infected by a mind-controlling parasite and reunites with the spy Ada Wong. In a departure from the fixed camera angles and slower gameplay of previous Resident Evil games, Resident Evil 4 features a dynamic camera system and action-oriented gameplay. Resident Evil 4 was released on multiplatform, Nintendo Gamecube, PlayStation 2, Xbox 360 and PC over years. It garnered acclaim for its story, gameplay, graphics, voice acting, and characters, and is cited as one of the best video games of all time, winning multiple Game of the Year awards in 2005. It was ported to numerous formats, and became a cross-platform hit, selling 12.3 million units by December 2022.</item>
+        <item>Left 4 Dead 2 is a 2009 first-person shooter game developed and published by Valve. The sequel to Turtle Rock Studioss Left 4 Dead (2008) and the second game in the Left 4 Dead series, it was released for Microsoft Windows and Xbox 360 in November 2009, Mac OS X in October 2010, and Linux in July 2013. The game made its world premiere at E3 2009 with a trailer during the Microsoft press event. Prior to release, it received mixed critical and community reactions, and attracted an unusually high volume of controversy about its graphic content. In response, alterations were made to the cover art, but both Australia and Germany refused to rate the unmodified edition at the time of release. Despite this, the game was met with positive critical reviews, and is considered to be one of the greatest video games ever made.</item>
+        <item>Undertale was released for OS X and Windows in September 2015. It was also ported to Linux in July 2016, PlayStation 4 and PlayStation Vita in August 2017, the Nintendo Switch in September 2018, and Xbox One in March 2021. The game was acclaimed for its thematic material, intuitive combat system, musical score, originality, story, dialogue, and characters. The game sold over one million copies and was nominated for multiple accolades and awards. Several gaming publications and conventions listed Undertale as game of the year, and others have since listed it as one of the greatest video games ever made. Two chapters of a related game, Deltarune, were released in 2018 and 2021.</item>
+        <item>Little Nightmares is a puzzle-platform horror adventure game developed by Tarsier Studios and published by Bandai Namco Entertainment for PlayStation 4, Windows and Xbox One. A Nintendo Switch version was released in May 2018, followed by a Google Stadia version in June 2020 and then a mobile version will be released in winter 2023 and published by Playdigious. Set in a mysterious world, Little Nightmares follows the journey of Six, a hungry little girl who must escape the Maw, an iron vessel inhabited by monstrous, twisted beings. The game received positive reviews upon release with critics praising its atmosphere, gameplay, graphics, and sound while criticizing its checkpoint system and short length. A follow-up, Little Nightmares II, was released in February 2021, and a third entry in the series, Little Nightmares III, is in development by Supermassive Games. </item>
+        <item>Red Dead Redemption 2[a] is a 2018 action-adventure game developed and published by Rockstar Games. The game is the third entry in the Red Dead series and a prequel to the 2010 game Red Dead Redemption. The story is set in a fictionalized representation of the United States in 1899 and follows the exploits of Arthur Morgan, an outlaw and member of the Van der Linde gang, who must deal with the decline of the Wild West while attempting to survive against government forces, rival gangs, and other adversaries. The game is presented through first- and third-person perspectives, and the player may freely roam in its interactive open world. Gameplay elements include shootouts, robberies, hunting, horseback riding, interacting with non-player characters, and maintaining the characters honor rating through moral choices and deeds. A bounty system governs the response of law enforcement and bounty hunters to crimes committed by the player. </item>
+    </string-array>
+</resources>
