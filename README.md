@@ -1,0 +1,1 @@
+![Copy of Copy of Copy of Copy of Red Black Simple Gradients Technology in Business and at Work Technology Presentation(3)](https://github.com/malivee/game-pc-list/assets/100111548/e56189f9-e0ee-40d7-b2dd-eef4b59eed57)
